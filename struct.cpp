@@ -7,3 +7,10 @@ struct Orang
     string alamat;
     int umur;
 };
+
+int main()
+{
+    //Deklarasi variabel struct
+    Orang mhs;
+    
+}
